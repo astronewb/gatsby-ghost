@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://astronewb.herokuapp.com",
+    "contentApiKey": "72e8cc7cb8208491c656be0b62"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://astronewb.herokuapp.com",
+    "contentApiKey": "72e8cc7cb8208491c656be0b62"
   }
 }
